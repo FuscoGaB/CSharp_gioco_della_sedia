@@ -1,0 +1,6 @@
+C:\Users\diana\OneDrive\Desktop\gioco_della_sedia\obj\Debug\net8.0-windows\gioco_della_sedia.Form1.resources
+C:\Users\diana\OneDrive\Desktop\gioco_della_sedia\obj\Debug\net8.0-windows\gioco_della_sedia.csproj.GenerateResource.cache
+C:\Users\diana\OneDrive\Desktop\gioco_della_sedia\obj\Debug\net8.0-windows\gioco_della_sedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\OneDrive\Desktop\gioco_della_sedia\obj\Debug\net8.0-windows\gioco_della_sedia.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Desktop\gioco_della_sedia\obj\Debug\net8.0-windows\gioco_della_sedia.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Desktop\gioco_della_sedia\obj\Debug\net8.0-windows\gioco_della_sedia.csproj.CoreCompileInputs.cache
